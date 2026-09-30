@@ -1,0 +1,6 @@
+{
+  "name": "AI FAQ Assistant & Firebase Sync",
+  "description": "Full-stack real-time FAQ management and customer support automation with Firebase Authentication, Firestore live data sync, and AI generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
